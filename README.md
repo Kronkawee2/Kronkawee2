@@ -10,7 +10,7 @@
   Lifelong learner continuously updating skills to turn raw data into impact.
 
 * ✉️  You can contact me at [giltechkm@gmail.com](mailto:giltechkm@gmail.com) ⭑
-* 📄 View / Download my [Resume / CV]([[./Gil_CV.pdf](https://drive.google.com/file/d/1NFAde8RhaQrdj-7vuntxBNOPxbFCrc0u/view?usp=sharing)](https://drive.google.com/file/d/1NFAde8RhaQrdj-7vuntxBNOPxbFCrc0u/view?usp=drive_link)) ⭑
+* 📄 View / Download my [Resume / CV](./Gil_CV) ⭑
 
 ### Socials ₍^. .^₎⟆
 
