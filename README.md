@@ -10,7 +10,7 @@
   Lifelong learner continuously updating skills to turn raw data into impact.
 
 * ✉️  You can contact me at [giltechkm@gmail.com](mailto:giltechkm@gmail.com) ⭑
-* 📄 **CV:** [![CV](https://img.shields.io/badge/Download_CV-PDF-00F5D4?style=flat-square&logo=adobeacrobatreader&logoColor=black)](./Gil_CV.pdf) ⭑
+** 📄 **CV:** [![Download CV](https://img.shields.io/badge/Download_CV-PDF-00F5D4?style=flat-square&logo=adobeacrobatreader&logoColor=black)](https://github.com/Kronkawee2/Kronkawee2/raw/main/Gil_CV.pdf) ⭑
 
 ### Socials ₍^. .^₎⟆
 
