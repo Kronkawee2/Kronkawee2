@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi!+My+nickname+is+Gil+%F0%9F%90%BE;Exploring+Data+Engineering+(DE)...;Discovering+Data+Analytics+(DA)...;Building+Data+Science+(DS)+Models...;Turning+Data+into+Actionable+Insights!;Always+Learning+%26+Building!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-» My name is kronkawee Mueangthong ⁴⁰⁴
+» My name is Kronkawee Mueangthong ⁴⁰⁴
 
 » Aspiring Data Professional Exploring DE, DA & DS
 
